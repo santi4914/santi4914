@@ -1,7 +1,7 @@
 # ¡Hola! Soy Santiago Valencia 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=200&section=header&text=Frontend%20Developer&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078d4&height=200&section=header&text=Systems%20Engineering&fontSize=70&animation=fadeIn" />
 </p>
 
 ## 👨‍💻 Sobre Mí
