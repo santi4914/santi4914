@@ -51,6 +51,11 @@ An engineering solution for sports ranking and association, focused on computati
 ## <img src="https://media1.giphy.com/media/wUdQwjo1Y7jWhTn4BM/200w.webp?cid=ecf05e47gbgkk5pyy2rv5s5oz7n75edw0itnysdcy1ztio4d&ep=v1_gifs_related&rid=200w.webp&ct=s" width ="25"><b> GitHub Statistics</b>
 <br>
 
+<!-------- Top Languages Card --------->
+<p align="center">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=santi4914&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+</p>
+
 
 <!--------Slash--------->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
