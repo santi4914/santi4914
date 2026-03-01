@@ -65,7 +65,7 @@ Colaborador activo en el desarrollo de la arquitectura de componentes. Mi aporte
 ## 📫 Conectemos
 <p align="left">
   <a href="https://linkedin.com/in/tu-usuario" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="mailto:tu-correo@ejemplo.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" height="30" width="35" /></a>
+  <a href="mailto:santiagovalenciaaguino2004@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" height="30" width="35" /></a>
 </p>
 
 *"Escribir código es el arte de explicarle a un humano lo que quieres que haga una máquina."*
