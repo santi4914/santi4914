@@ -43,6 +43,10 @@ Development of a robust web platform for managing a dog college, integrating enr
 **Analysis and Design of Algorithms I | Universidad del Valle**  
 An engineering solution for sports ranking and association, focused on computational efficiency, Big O notation analysis, and complex data structure management using Python.
 
+### 📁 [Planificador de Estudio - Sistema de Gestión Académica](https://github.com/jeangiraldoo/proyecto-integrador)
+**Proyecto Integrador I | Universidad del Valle**  
+A professional-grade web application designed for university students to plan, execute, and reprogram academic activities. Developed under an **Agile/Scrum** environment emulating professional software industry standards.
+
 <!--------Slash--------->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
