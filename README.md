@@ -73,7 +73,11 @@ A professional-grade web application designed for university students to plan, e
 
 ## ✉️ Let's Connect
 <p align="left">
-  <a href="https://www.linkedin.com/in/santiago-valencia-333841372/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="mailto:santiagovalenciaaguino2004@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" height="30" width="35" /></a>
+  <a href="https://www.linkedin.com/in/santiago-valencia-333841372/" target="_blank">
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="48" width="48" />
+  </a>
+  &nbsp;
+  <a href="mailto:santiagovalenciaaguino2004@gmail.com">
+    <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Email" height="48" width="48" />
+  </a>
 </p>
-
